@@ -1,7 +1,6 @@
 # Portfolio
 
 
-# Data Scientist
 
 #### Technical Skills: Python, SQL, AWS, PowerBI , TensorFlow, PyTorch, Java, Spring Boot
 
