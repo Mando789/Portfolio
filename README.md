@@ -11,19 +11,19 @@
 
 ## Work Experience
 **Edmund Consulting – Research Intern (_May 2025 – June 2025_)**
--Contributed to a white paper on the UK’s AI infrastructure, benchmarking against global leaders.
--Researched compute, energy, and capital requirements for AI models under different scenarios.
--Gained expertise in AI infrastructure deployment and regulatory market challenges.
+- Contributed to a white paper on the UK’s AI infrastructure, benchmarking against global leaders.
+- Researched compute, energy, and capital requirements for AI models under different scenarios.
+- Gained expertise in AI infrastructure deployment and regulatory market challenges.
 
 **Fluid Focus – Data Analyst Intern (_Nov 2024 – Jan 2025, extended part-time_)**
--Built Mixpanel and Power BI dashboards translating survey and app data into actionable insights.
--Automated pipelines with Google Apps Script and integrated AWS Bedrock/ Lex chatbot solutions.
--Conducted competitor analysis and sentiment mining to guide app strategy and improve UX.
+- Built Mixpanel and Power BI dashboards translating survey and app data into actionable insights.
+- Automated pipelines with Google Apps Script and integrated AWS Bedrock/ Lex chatbot solutions.
+- Conducted competitor analysis and sentiment mining to guide app strategy and improve UX.
 
 **Orange Egypt – Junior Backend Developer (_Jan 2024 – Aug 2024_)**
--Developed large-scale backend solutions in Spring Boot/Java supporting millions of customers.
--Optimized high-volume databases and deployed monitoring tools to improve system stability.
--Collaborated with business teams to align technical solutions with commercial goals.
+- Developed large-scale backend solutions in Spring Boot/Java supporting millions of customers.
+- Optimized high-volume databases and deployed monitoring tools to improve system stability.
+- Collaborated with business teams to align technical solutions with commercial goals.
 
 ## Projects
 
