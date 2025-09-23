@@ -34,7 +34,7 @@
 
 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzc2YjYxNWQtNTRkOC00MTQ3LTg2ZWYtYmY4MGQyZjE5NjlhIiwidCI6IjkzNzI1ZGI0LTFiZjEtNGZiYi05NGFmLWFkNmMwMjUxYTAxOCJ9&pageName=0164315c22d8b9d981e7)
 
-Developed an interactive Power BI dashboard to analyze and visualize survey data on student screen time. The project involved cleaning and structuring raw responses, building dynamic reports, and designing clear visualizations to uncover behavioral trends. The dashboard highlights patterns in device usage, time distribution, and correlations with productivity, providing actionable insights for stakeholders to improve student well-being and engagement.
+Developed an interactive Power BI dashboard for **Fluid Focus** to analyze and visualize survey data on student screen time. The project involved cleaning and structuring raw responses, building dynamic reports, and designing clear visualizations to uncover behavioral trends. The dashboard highlights patterns in device usage, time distribution, and correlations with productivity, providing actionable insights for stakeholders to improve student well-being and engagement.
 
 ### Master’s Dissertation - AI-Powered Workflow Optimization with Retrieval-Augmented Generation (RAG)
 
