@@ -38,4 +38,38 @@ Developed an interactive Power BI dashboard for **Fluid Focus** to analyze and v
 
 Developed a prototype AI system to detect and optimize inefficiencies in organizational workflows. Due to the lack of labeled process data and the high expertise required for manual labeling, I applied a Retrieval-Augmented Generation (RAG) framework to enhance large language model outputs with a curated knowledge base. The system, built and deployed using AWS (Bedrock, S3), delivers evidence-based recommendations, bottleneck detection, and visual workflow comparisons. Validated on real-world travel and accommodation workflows, the project demonstrates how AI can provide scalable, practical business process optimization solutions.
 
+### Multi-Agent Reinforcement Learning Travel Recommendation System
+
+[View Project on GitHub](https://github.com/Mando789/Travel-Agent-RL)
+
+Built a multi-agent reinforcement learning system for my Master's program that optimizes travel recommendations across hotels, restaurants, and activities within budget constraints. The project features specialized agents for each category coordinated by a central agent that manages budget allocation and learns from user preferences. Using real UK travel data, the system dynamically adapts recommendations while visualizing performance metrics and budget utilization patterns. This approach demonstrates how multiple AI agents can collaborate to solve complex resource allocation problems in travel planning scenarios.
+
+### Competitive Intelligence Web Scraping & AWS Bedrock Chatbot
+
+[View Project on GitHub](https://github.com/Mando789/Web-Scraping-App-Reviews)
+
+Developed a web scraping solution for **Fluid Focus** to extract and analyze app reviews for competitive intelligence. The project involved scraping competitor app reviews, cleaning and structuring the data, then integrating it with AWS Bedrock to build a chatbot with knowledge of competitor strengths and weaknesses. This allowed stakeholders to query competitor analysis, identify market gaps, and receive recommendations for product strategy and market positioning.
+
+### Machine Learning Classification Projects
+
+**Telco Customer Churn Prediction**
+[View Project on GitHub](https://github.com/Mando789/Telco-Customer-Churn)
+
+Built classification models to predict customer churn using logistic regression, random forest, and gradient boosting. Performed feature engineering and model comparison to identify key churn indicators.
+
+**Bank Customer Churn Analysis**
+[View Project on GitHub](https://github.com/Mando789/Bank-Customer-Churn)
+
+Developed predictive models for bank customer retention using ensemble methods and neural networks. Applied data preprocessing techniques and evaluated model performance across different algorithms.
+
+**Airline Passenger Satisfaction Prediction**
+[View Project on GitHub](https://github.com/Mando789/Airline-Passenger-Satisfaction)
+
+Created classification models to predict passenger satisfaction using decision trees, SVM, and ensemble methods. Conducted exploratory data analysis and feature importance analysis.
+
+### Car Rental Management System
+[View Project on GitHub](https://github.com/Mando789/CarRental-System)
+
+Designed a basic object-oriented car rental system in Python with customer management, VIP customer handling, and rental operations. Demonstrates clean code architecture and OOP principles.
+
 
