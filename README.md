@@ -25,6 +25,12 @@
 
 ## Projects
 
+### Master’s Dissertation - AI-Powered Workflow Optimization with Retrieval-Augmented Generation (RAG)
+
+[View Project on GitHub](https://github.com/Mando789/diss-data) | [Read Dissertation](Uploads/Dissertation.pdf)
+
+Developed a prototype AI system to detect and optimize inefficiencies in organizational workflows. Due to the lack of labeled process data and the high expertise required for manual labeling, I applied a Retrieval-Augmented Generation (RAG) framework to enhance large language model outputs with a curated knowledge base. The system, built and deployed using AWS (Bedrock, S3), delivers evidence-based recommendations, bottleneck detection, and visual workflow comparisons. Validated on real-world travel and accommodation workflows, the project demonstrates how AI can provide scalable, practical business process optimization solutions.
+
 ### Student Screen Time Insights Dashboard
 
 [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzc2YjYxNWQtNTRkOC00MTQ3LTg2ZWYtYmY4MGQyZjE5NjlhIiwidCI6IjkzNzI1ZGI0LTFiZjEtNGZiYi05NGFmLWFkNmMwMjUxYTAxOCJ9&pageName=0164315c22d8b9d981e7) 
@@ -33,11 +39,6 @@ Developed an interactive Power BI dashboard for **Fluid Focus** to analyze and v
 
 This dashboard was featured in a [Fluid Focus report](https://www.fluidfocus.app/sie-research) and highlighted in [The Times](https://www.thetimes.com/uk/technology-uk/article/average-young-person-25-years-phone-screen-time-hwt76mnpq?utm_medium=Social&utm_source=Facebook#Echobox=1750613177).
 
-### Master’s Dissertation - AI-Powered Workflow Optimization with Retrieval-Augmented Generation (RAG)
-
-[View Project on GitHub](Link) | [Read Dissertation](Uploads/Dissertation.pdf)
-
-Developed a prototype AI system to detect and optimize inefficiencies in organizational workflows. Due to the lack of labeled process data and the high expertise required for manual labeling, I applied a Retrieval-Augmented Generation (RAG) framework to enhance large language model outputs with a curated knowledge base. The system, built and deployed using AWS (Bedrock, S3), delivers evidence-based recommendations, bottleneck detection, and visual workflow comparisons. Validated on real-world travel and accommodation workflows, the project demonstrates how AI can provide scalable, practical business process optimization solutions.
 
 ### Multi-Agent Reinforcement Learning Travel Recommendation System
 
